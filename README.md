@@ -49,13 +49,23 @@ Simple UI for C# made with ❤ by WetDream
   
 </details>
 
+```Dropdown Menu```
+
+<details>
+
+<summary> <b>Example</b></summary><br/>
+
+![DropdownMenu](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/DropDown%20Menu.jpg)
+  
+</details>
+
 ```ProgressBar```
 
 <details>
 
 <summary> <b>Example</b></summary><br/>
 
-![ComboBox](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ProgressBar.gif)
+![ProgressBar](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ProgressBar.gif)
   
 </details>
 
