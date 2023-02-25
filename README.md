@@ -70,3 +70,33 @@ Simple UI for C# made with ❤ by WetDream
 </details>
 
 
+```Radio Button```
+
+<details>
+
+<summary> <b>Example</b></summary><br/>
+
+![RadioButton](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/RadioButton.jpg)
+  
+</details>
+
+```TextBox```
+
+<details>
+
+<summary> <b>Example</b></summary><br/>
+
+![TextBox](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/TextBox.jpg)
+  
+</details>
+
+```Toggle Button```
+
+<details>
+
+<summary> <b>Example</b></summary><br/>
+
+![ToggleButton](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ToggleButton.jpg)
+  
+</details>
+
