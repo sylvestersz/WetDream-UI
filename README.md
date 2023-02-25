@@ -49,4 +49,14 @@ Simple UI for C# made with ❤ by WetDream
   
 </details>
 
+```ProgressBar```
+
+<details>
+
+<summary> <b>Example</b></summary><br/>
+
+![ComboBox](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ProgressBar.gif)
+  
+</details>
+
 
