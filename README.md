@@ -21,5 +21,10 @@ Simple UI for C# made with ❤ by WetDream
 
 ```Button```
 
+<details>
 
-![Logo](https://i.ibb.co/S0ZSpYX/wetdreambutton.jpg)
+<summary> <b>Screenshots</b></summary><br/>
+
+![Button](https://i.ibb.co/S0ZSpYX/wetdreambutton.jpg)
+  
+</details>
