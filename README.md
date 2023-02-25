@@ -100,3 +100,9 @@ Simple UI for C# made with ❤ by WetDream
   
 </details>
 
+
+## Installation
+
+https://user-images.githubusercontent.com/39089464/221357471-42113d23-04b1-4a3e-9d4e-4f166375dac1.mp4
+
+
