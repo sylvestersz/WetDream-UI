@@ -96,7 +96,7 @@ Simple UI for C# made with ❤ by WetDream
 
 <summary> <b>Example</b></summary><br/>
 
-![ToggleButton](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ToggleButton.jpg)
+![ToggleButton](https://github.com/sylvestersz/WetDream-UI/blob/main/Example/ToggleButton.jpeg)
   
 </details>
 
