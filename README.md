@@ -1,7 +1,7 @@
 
 # WetDream UI
 
-Simple UI for C# made with ❤ by WetDream
+Simple UI made with ❤ by WetDream
 
 
 |```Features```|
